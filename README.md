@@ -20,5 +20,5 @@ Aplikasi pelacak keuangan pribadi berbasis web yang dibangun dengan **Python** d
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com//my-finance-tracker.git](https://github.com/USERNAME_KAMU/my-finance-tracker.git)
+   git clone [https://github.com/https://github.com/aziel-cell/my-finance-tracker.git](https://github.com/https://github.com/aziel-cell/my-finance-tracker.git)
    cd my-finance-tracker
