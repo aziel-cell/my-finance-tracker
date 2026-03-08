@@ -1,0 +1,17 @@
+# File database lokal (Jangan di-upload jika berisi data pribadi)
+data_keuangan.csv
+
+# File konfigurasi rahasia (Tempat menyimpan API Key jika ada)
+.env
+
+# Folder lingkungan virtual (Ukurannya sangat besar, tidak perlu di-upload)
+venv/
+env/
+.venv/
+
+# Cache Python (File otomatis yang dihasilkan sistem)
+__pycache__/
+*.pyc
+
+# Folder rahasia Streamlit
+.streamlit/
